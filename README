@@ -1,0 +1,6 @@
+Simple blog crawler using node.js. Checks to see if there have been any new posts on 
+select blogs since last time it was ran, and saves images to file from 
+new blog entries. 
+To run, type "node blogCrawler.js" into terminal.
+
+Blog information can be found in bloginfo.json, and can be edited to search other blogs. 
